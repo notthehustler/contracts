@@ -32,3 +32,6 @@ For contract deployment artifacts, see [base-org/contract-deployments](https://g
 - If you don't have foundry installed, run `make install-foundry`.
 - `make deps`
 - Test contracts: `make test`
+make test
+shell
+#test commit
