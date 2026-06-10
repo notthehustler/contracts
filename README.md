@@ -4,6 +4,8 @@
 
 This repo contains contracts and scripts for Base.
 Note that Base primarily utilizes Optimism's bedrock contracts located in Optimism's repo [here](https://github.com/ethereum-optimism/optimism/tree/develop/packages/contracts-bedrock).
+Base is built on the OP Stack (developed by Optimism), making it part of the Superchain — a network of interoperable L2s sharing the same technology foundation. 
+But, recently, per February 18, 2026, Coinbase's Base published a blog post titled "The Next Chapter for Base," announcing it plans to take more control over its own code and infrastructure — stepping back from relying on Optimism's OP Stack.
 For contract deployment artifacts, see [base-org/contract-deployments](https://github.com/base-org/contract-deployments).
 
 <!-- Badge row 1 - status -->
