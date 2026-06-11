@@ -46,3 +46,8 @@ just semver-lock
 - If you don't have foundry installed, run `just install-foundry`.
 - `just deps`
 - Test contracts: `just test`
+
+- - Learn about Base: the Ethereum L2
+- Base is now independent from OP Stack
+- Deploy 10 contracts on Base!
+- Fadlir building on Base 🔵
