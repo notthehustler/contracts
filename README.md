@@ -51,3 +51,5 @@ just semver-lock
 - Base is now independent from OP Stack
 - Deploy 10 contracts on Base!
 - Fadlir building on Base 🔵
+
+- Now, its sunday. Israel stil commiting genocide!
